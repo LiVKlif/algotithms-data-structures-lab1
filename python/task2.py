@@ -1,6 +1,6 @@
 import math
 def func(x):
-    return math.sqrt(1 - 0.4 * x**2) - math.asin(x)
+    return math.sqrt(1 - 0.4 * x**2) - math.asin(x) //функция
 l = 0.0
 r = 1.0
 eps = 0.00001
